@@ -1,0 +1,3 @@
+abstract class HotelBookingDetailsStates{}
+
+class HotelBookingDetailsInitialState extends HotelBookingDetailsStates{}
